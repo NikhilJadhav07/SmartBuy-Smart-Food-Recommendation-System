@@ -268,9 +268,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nikhil Kumar**
+**Nikhil Jadhav**
 - GitHub: [@nikhilkumar0811](https://github.com/nikhilkumar0811)
-- Email: nikhil.kumr@example.com
+- Email: nikhiljadhav2782@gmail.com
 
 ## 🌟 Show Your Support
 
@@ -280,7 +280,7 @@ Give a ⭐️ if this project helped you!
 
 For support and queries:
 - Open an issue on [GitHub Issues](https://github.com/nikhilkumar0811/food-recommendation/issues)
-- Email: nikhil.kumr@example.com
+- Email: nikhiljadhav2782@gmail.com
 
 ---
 
